@@ -9,50 +9,18 @@ body {
     max-width: 800px;
     margin: 50px auto;
     background-color: #fff;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
+    padding: 25px;
 }
-
-h1, h2, h3 {
-    color: #3498db;
+.Contact-information{
+    line-height: 10px;
 }
-
-h1 {
-    margin-bottom: 10px;
-}
-
-h2 {
-    color: #333;
-    margin-top: 30px;
+.Profile-picture{
+    width: 150px;
+    height: 150px;
 }
 
 .section {
     margin-top: 20px;
-}
-
-.section h3 {
-    color: #3498db;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
-    margin-bottom: 5px;
-}
-
-.skills {
     display: flex;
-    flex-wrap: wrap;
-}
-
-.skills div {
-    background-color: #3498db;
-    color: #fff;
-    padding: 5px 10px;
-    margin: 5px;
-    border-radius: 5px;
+    justify-content: space-between;
 }
