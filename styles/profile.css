@@ -1,4 +1,4 @@
-body {
+.body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -10,6 +10,19 @@ body {
     margin: 50px auto;
     background-color: #fff;
     padding: 25px;
+    line-height: 20px;
+}
+.computer-skills{
+    display: flex;
+    justify-content: space-between;
+}
+.hr{
+    line-height: 5px;
+}
+.references-styls{
+    display: flex;
+    justify-content: space-between;
+    line-height: 10px;
 }
 .Contact-information{
     line-height: 10px;
@@ -24,3 +37,15 @@ body {
     display: flex;
     justify-content: space-between;
 }
+.horizontal-line{
+    position: absolute;
+    height: 1px;
+}
+.technical-skill{
+    display: flex;
+}
+.h3{
+    color: rgb(115, 115, 241);
+}
+
+  
