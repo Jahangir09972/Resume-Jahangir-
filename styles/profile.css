@@ -63,4 +63,16 @@ h3{
     margin: 5px;
     border-radius: 5px;
 }
+.uttara-logo{
+    display: flex;
+    justify-content: space-between;
+}
+.rangs-logo{
+    display: flex;
+    justify-content: space-between;
+}
+.runner-logo{
+    display: flex;
+    justify-content: space-between;
+}
   
